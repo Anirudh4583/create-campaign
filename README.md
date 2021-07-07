@@ -10,8 +10,8 @@
 # Table of Contents <i class="fas fa-table"></i>
 
 - [Create campaign](#create-campaign-page)
-- [Table of Contents](#table-of-contents)
-- [Screenshots](#screenshots)
+- [Table of Contents](#table-of-contents-)
+- [Screenshots](#screenshots-)
   - [Form view](#form-view)
   - [Validations](#validations)
   - [With input](#with-input)
